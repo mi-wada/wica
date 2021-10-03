@@ -1,0 +1,15 @@
+[package]
+name = "curl_tui"
+version = "0.1.0"
+edition = "2018"
+
+[dependencies]
+tui = "0.16.0"
+termion = "1.5.6"
+structopt = "0.3.23"
+anyhow = "1.0.44"
+serde = "1.0.130"
+unicode-width = "0.1.8"
+reqwest = { version = "0.11.4", features = ["blocking"] }
+tokio = { version = "1.11.0", features = ["full"] }
+jsonxf = "1.1.1"
