@@ -1,6 +1,6 @@
 # wica
 
-<img title='wica_demo' alt='wica_demo' src='https://user-images.githubusercontent.com/49638956/167323693-a6a925ab-d434-4d71-bcbd-a2cc8d1fc14e.gif' width="1200" style="display: block; margin-left: auto; margin-right: auto; width: 50%;">
+<img title='wica_demo' alt='wica_demo' src='https://user-images.githubusercontent.com/49638956/167323693-a6a925ab-d434-4d71-bcbd-a2cc8d1fc14e.gif' style="display: block; margin-left: auto; margin-right: auto; width: 80%;">
 
 ## TODO
 - Implement Component to enter request header
